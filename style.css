@@ -253,12 +253,12 @@ footer p {
   }
   
   .facebook {
-    background: linear-gradient(#3B5998, #1b7dd874);
+    background: linear-gradient(#3B5998, #1b7dd8da);
     color: white;
   }
   
   .instagram {
-    background: linear-gradient(#d52fffc5, #d21bd88f) ;
+    background: linear-gradient(#d52fffc5, #ff990091) ;
     color: white;
   }
   
@@ -267,6 +267,11 @@ footer p {
     color: white;
   }
   
+  .twitter {
+    background: linear-gradient(#7c9bdd, #98c1e6ee);
+    color: white;
+  }
+
   .content {
     margin-left: 75px;
     font-size: 30px;
