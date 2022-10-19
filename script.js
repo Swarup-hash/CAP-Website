@@ -9,6 +9,7 @@ const SocialMedia = `<div class="icon-bar">
 <a href="https://www.facebook.com/cap.mumbai " class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
 <a href="https://www.instagram.com/cap.mumbai/?igshid=YmMyMTA2M2Y%3D" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
 <a href="https://api.whatsapp.com/send?phone=9757439100" class="whatsapp" target="_blank"><i class="fa fa-whatsapp"></i></a>
+<a href="https://twitter.com/capmumbai" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
 </div>`
 document.querySelector(".socialmedia").innerHTML = SocialMedia
 
