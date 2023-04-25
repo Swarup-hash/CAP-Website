@@ -20,7 +20,7 @@ const navbar = `
                 <a href="../index.html"><img src="../images/CAPlogo.png" class="navImage" height="120px"></a>
               </div>
               <div class="text-center">
-                <h1 class="title word-break"><strong>Citizens for Animal Protection</strong></h1>
+                <h2 class="title word-break"><strong>Citizens for Animal Protection</strong></h2>
               </div>
               <div class="SMandDonate row align-middle">
                 <div class="sm col-md-6">
